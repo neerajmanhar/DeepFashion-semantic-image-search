@@ -11,7 +11,7 @@ Built with:
 ## 📸 Demo
 
 <p align="center">
-  <img src="demo/demo.gif" alt="UI Demo" width="700">
+  <img src="Demo/demo.gif" alt="UI Demo" width="700">
 </p>
 
 ---
