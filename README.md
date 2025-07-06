@@ -95,7 +95,7 @@ streamlit run app.py
 
 ## 📬 Contact
 
-Made by [Neeraj Manhar](https://github.com/neerajmanhar) — feel free to connect!
+Made by [Neeraj Manhar](https://github.com/neerajmanhar) — feel free to connect!\
 [LinkedIN](https://www.linkedin.com/in/neerajmanhar/)
 
 ---
