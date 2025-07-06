@@ -24,6 +24,7 @@ DeepFashion-semantic-image-search/
 │
 ├── app/                     # FastAPI backend
 │   ├── main.py              # API endpoints
+│   ├── model_loader.py              # Model loader
 │   └── search_engine.py     # Search logic
 │
 ├── frontend/                # Streamlit frontend
